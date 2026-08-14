@@ -1,0 +1,6 @@
+{
+  "name": "Gia Sư Lịch Sử Địa Lý Lớp 4",
+  "description": "Ứng dụng ôn tập và kiểm tra trắc nghiệm Lịch sử & Địa lý 4 (Kết nối tri thức với cuộc sống) dành cho học sinh. Tác giả: Quang Linh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
